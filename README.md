@@ -20,13 +20,12 @@ This is a Flask web application that predicts customer satisfaction based on air
 ![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey)
 ![Render](https://img.shields.io/badge/Deployed%20on-Render-brightgreen)
 
-## 📸 Screenshots
 
-### 📝 Input Form
-![Input Form](Screenshot_form.jpg)
 
-### ✅ Prediction Result
-![Prediction](screenshots/result.png)
+### 📸 Demo Screenshots
+
+- [Screenshot_form.jpg](static/screenshots/Screenshot_form.jpg)
+- [Screenshot_result.jpg](static/screenshots/Screenshot_result.jpg)
 
 ## 🛠️ Tech Stack
 
