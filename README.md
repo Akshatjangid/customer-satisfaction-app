@@ -24,8 +24,8 @@ This is a Flask web application that predicts customer satisfaction based on air
 
 ### 📸 Demo Screenshots
 
-- [Screenshot_form.jpg](screenshots/Screenshot_form.jpg)
-- [Screenshot_result.jpg](screenshots/Screenshot_result.jpg)
+- [Screenshot_form.jpg](screenshot/Screenshot_form.jpg)
+- [Screenshot_result.jpg](screenshot/Screenshot_result.jpg)
 
 ## 🛠️ Tech Stack
 
