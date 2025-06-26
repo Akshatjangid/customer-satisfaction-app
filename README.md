@@ -16,6 +16,28 @@ This is a Flask web application that predicts customer satisfaction based on air
 - Interactive form UI using Bootstrap
 - Predicts whether a customer is **Satisfied** or **Not Satisfied**
 
+- ![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey)
+![Render](https://img.shields.io/badge/Deployed%20on-Render-brightgreen)
+
+## 📸 Screenshots
+
+### 📝 Input Form
+![Input Form](screenshots/form.png)
+
+### ✅ Prediction Result
+![Prediction](screenshots/result.png)
+
+## 🛠️ Tech Stack
+
+- Python 3.10
+- Flask
+- NumPy
+- scikit-learn
+- HTML5 + CSS + Bootstrap
+- Render (Deployment)
+
+
 ---
 
 ## 📁 Folder Structure
