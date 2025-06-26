@@ -53,7 +53,7 @@ Customer_Satisfaction/
 ├── templates/
 │   └── index.html              # Frontend HTML form (Bootstrap styled)
 ├── screenshots/
-│   └── (Render UI and logs)    # Screenshots of deployment/logs/UI
+│   └──                          # Screenshots of deployment/logs/UI
 └── README.md                   # Project documentation```
 
 ```
