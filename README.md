@@ -43,11 +43,16 @@ This is a Flask web application that predicts customer satisfaction based on air
 ## 📁 Folder Structure
 Customer_Satisfaction/
 │
-├── app.py # Flask backend
-├── model.pkl # Trained ML model
-├── columns.pkl # Column order for prediction
-├── requirements.txt # All required Python packages
-├── render.yaml # Render deployment config
+├── app.py                      # Flask backend (main Python app)
+├── model.pkl                   # Trained ML model file
+├── columns.pkl                 # Column order used in training
+├── cust_satisfaction.csv       # Dataset used for training (optional)
+├── main2.ipynb                 # Jupyter Notebook with EDA/training
+├── render.yaml                 # Render deployment configuration
+├── requirements.txt            # All required Python packages
 ├── templates/
-│ └── index.html # HTML frontend
-└── cust_satisfaction.csv # Dataset (optional)
+│   └── index.html              # Frontend HTML form (Bootstrap styled)
+├── static/
+│   └── (optional CSS/images)   # Put your custom CSS or images here
+└── README.md                   # Project documentation
+
