@@ -23,7 +23,7 @@ This is a Flask web application that predicts customer satisfaction based on air
 ## 📸 Screenshots
 
 ### 📝 Input Form
-![Input Form](screenshots/form.png)
+![Input Form](Screenshot_form.jpg)
 
 ### ✅ Prediction Result
 ![Prediction](screenshots/result.png)
