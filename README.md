@@ -41,6 +41,7 @@ This is a Flask web application that predicts customer satisfaction based on air
 ---
 
 ## 📁 Folder Structure
+```
 Customer_Satisfaction/
 │
 ├── app.py                      # Flask backend (main Python app)
@@ -55,4 +56,4 @@ Customer_Satisfaction/
 ├── static/
 │   └── (optional CSS/images)   # Put your custom CSS or images here
 └── README.md                   # Project documentation
-
+```
